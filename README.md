@@ -1,4 +1,7 @@
-### Hi there 👋
+# 🎹 Ethan Billings
+### Mathematics undergrad at The University of British Columbia
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejb1733&theme=synthwave)
 
 <!--
 **ejb1733/ejb1733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
